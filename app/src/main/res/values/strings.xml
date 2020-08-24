@@ -1,0 +1,56 @@
+<resources>
+    <string name="app_name">SQLiteJava</string>
+    <string name="empty_nim">Nomor Induk Mahasiswa wajib diisi!</string>
+    <string name="empty_name">Nama tidak boleh kosong!</string>
+    <string name="empty_class">Kelas wajib diisi!</string>
+    <string name="change_student_score">Ubah Nilai Mahasiswa</string>
+    <string name="add_update_score_message">Silakan isi data nilai untuk mahasiswa "</string>
+    <string name="sure">Yakin?</string>
+    <string name="confirm_delete_score">Yakin ingin menghapus nilai pada mata kuliah "</string>
+    <string name="confirm_delete_score_for_nim">" untuk NIM "</string>
+    <string name="row_student_name"><![CDATA[<th>Nama Mahasiswa</th>]]></string>
+    <string name="row_student_nim"><![CDATA[<th>NIM</th>]]></string>
+    <string name="row_student_email"><![CDATA[<th>Email</th>]]></string>
+    <string name="row_student_course"><![CDATA[<th>Mata Kuliah</th>]]></string>
+    <string name="row_student_score"><![CDATA[<th>Nilai</th>]]></string>
+    <string name="table_title_student_score_report"><![CDATA[<center><h3><b>LAPORAN NILAI MAHASISWA</b></h3></center>]]></string>
+    <string name="title_student_score_report"><![CDATA[<title>Laporan Nilai Mahasiswa</title>]]></string>
+    <string name="add_new_score">Tambah Nilai Baru</string>
+    <string name="example_score_message">Silakan isi data nilai untuk mahasiswa ABCD.</string>
+    <string name="courses">Mata Kuliah</string>
+    <string name="score">Nilai</string>
+    <string name="save">Simpan</string>
+    <string name="update">Update</string>
+    <string name="delete_score_yes">Ya, hapus saja</string>
+    <string name="delete_score_no">Tidak</string>
+    <string name="delete_student_confirm">\"Yakin ingin menghapus mahasiswa \"</string>
+    <string name="delete_student_yes">Ya, hapus saja</string>
+    <string name="delete_student_no">Tidak</string>
+    <string name="change_student_data">Ubah Data Mahasiswa</string>
+    <string name="add_new_student">Tambah Mahasiswa Baru</string>
+    <string name="message_add_update_student">Silakan isi data diri Mahasiswa Baru di bawah ini.</string>
+    <string name="nim">Nomor Induk Mahasiswa</string>
+    <string name="name">Nama Lengkap</string>
+    <string name="email">Email</string>
+    <string name="student_list">Daftar Mahasiswa</string>
+    <string name="message_student_list">Pilih mahasiswa di bawah ini untuk menambahkan nilai atau tahan untuk mengubah identitas mereka.</string>
+    <string name="report_button">Daftar Nilai</string>
+    <string name="add_button">Tambah Mhs</string>
+    <string name="example_name">Dwi Candra Permana</string>
+    <string name="example_nim">18.11.0004</string>
+    <string name="score_for">Nilai untuk</string>
+    <string name="example_course">Pemrograman Mobile 1</string>
+    <string name="example_score">A</string>
+    <string name="next">Next</string>
+    <string name="settings">Setelan</string>
+    <string name="delete">Delete</string>
+
+    <string-array name="courses_list">
+        <item>Algoritma dan Pemrograman</item>
+        <item>Pemrograman Mobile 1</item>
+        <item>Pemrograman Mobile 2</item>
+        <item>Pemrograman Web</item>
+        <item>Pemrograman Berorientasi Object</item>
+        <item>Pemrograman Framework</item>
+    </string-array>
+</resources>
